@@ -23,3 +23,15 @@ p.red {
 p.yellow {
   color: yellow;
 }
+.make-red {
+  color: red;
+}
+.green {
+  color: green;
+}
+.make-this-red {
+  color: red;
+}
+.brown {
+  color: brown;
+}
