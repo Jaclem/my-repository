@@ -10,3 +10,16 @@ h3 {
   color: #CC0000;
   font-weight: bolder;
 }
+
+.hate {
+  font-weight: bold;
+}
+p.blue {
+  color: blue;
+}
+p.red {
+  color: red;
+}
+p.yellow {
+  color: yellow;
+}
