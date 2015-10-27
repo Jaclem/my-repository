@@ -10,6 +10,12 @@ h3 {
   color: #CC0000;
   font-weight: bolder;
 }
+h5 {
+  font-size: 150%;
+}
+h6 {
+  font-size: 150%;
+}
 
 .hate {
   font-weight: bold;
@@ -35,6 +41,8 @@ p.yellow {
 .brown {
   color: brown;
 }
-.center {
-  text-align: center;
+.sidebar {
+  width: 30%;
+  float: right;
+  background-color: yellow;
 }
