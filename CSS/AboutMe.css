@@ -29,6 +29,9 @@ p.red {
 p.green {
   color: green;
 }
+p.orange {
+  color: orange;
+}
 .make-red {
   color: red;
 }
