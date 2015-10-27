@@ -34,3 +34,6 @@ img {
 .blue {
   color: blue;
 }
+img {
+  float: left;
+}
