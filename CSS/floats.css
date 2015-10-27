@@ -1,0 +1,19 @@
+.Column {
+  width: 300px;
+  float: left;
+}
+
+.Colored-Sidebar {
+  width: 30%;
+  height: 10%;
+  float: right;
+  background-color: yellow;
+}
+
+img {
+  float: center;
+}
+
+p.bold {
+  font-weight: bold;
+}
