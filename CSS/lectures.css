@@ -5,3 +5,22 @@ p.intro {
 p.outro {
   font-weight: bold;
 }
+.sour {
+  color: green;
+  font-weight: bold;
+  font-style: oblique;
+}
+.span {
+  color: red;
+  font-style: italic;
+}
+.terror {
+  color: #B22222;
+}
+.long {
+  font-style: italic;
+  font-weight: bold;
+}
+.center {
+  text-align: center;
+}

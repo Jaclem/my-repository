@@ -35,3 +35,6 @@ p.yellow {
 .brown {
   color: brown;
 }
+.center {
+  text-align: center;
+}
