@@ -26,8 +26,8 @@ p.blue {
 p.red {
   color: red;
 }
-p.yellow {
-  color: yellow;
+p.green {
+  color: green;
 }
 .make-red {
   color: red;
@@ -43,6 +43,9 @@ p.yellow {
 }
 .sidebar {
   width: 30%;
-  float: right;
+  float: center;
   background-color: yellow;
+}
+.Wrap-Text {
+  float: center;
 }
