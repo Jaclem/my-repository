@@ -1,3 +1,8 @@
+
+h1 {
+  text-align: center;
+}
+
 .Column {
   width: 300px;
   float: left;
@@ -10,8 +15,14 @@
   background-color: yellow;
 }
 
+h3 {
+  text-align: center;
+}
+
 img {
-  float: center;
+  float: left;
+  width: 304px;
+  height: 304;
 }
 
 p.bold {
