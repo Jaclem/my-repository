@@ -24,3 +24,6 @@ p.outro {
 .center {
   text-align: center;
 }
+.border {
+  border: 2px solid black;
+}

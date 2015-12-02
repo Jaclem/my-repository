@@ -47,6 +47,9 @@ p.orange {
 .sidebar {
   width: 30%;
   float: center;
+  border: 2px solid black;
+  padding: 3px;
+  margin: 12px;
   background-color: yellow;
 }
 .Wrap-Text {
